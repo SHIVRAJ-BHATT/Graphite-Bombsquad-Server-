@@ -1,0 +1,403 @@
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | where is flag map
+pb-IF4UU2ldEg==  |  ZEUS609| <in-lobby> | Do you checking this sever 
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | yash leave the game 
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ZEUS609
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | u join in enemy team
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ahh
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ok join in my team yash
+pb-IF4RUBkvVA==  |  koanboicho| koanboicho | Android64311759: do u want free name?
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | and betray 
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | kill
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | got warn
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | hm that means working 
+pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | Warning: Betraying your teammates is not allowed!
+pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | Warn Count = 1/5!!!
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | 5 warna kick 
+pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | nice
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | alright that's what I wanted to test 
+pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | let me use that warns
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 2/5!!!
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 3/5!!!
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 4/5!!!
+Host msg: | You have been kicked for betraying your team!
+pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /quit
+Host msg: | Server Restarting, Please Join in a moment !
+Host msg: | Server Restarting, Please Join in a moment !
+Host msg: | Server will restart on next opportunity. (series end)
+Host msg: | Server will restart on next opportunity. (series end)
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /me
+Host msg: | Not played any match yet.
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /me
+Host msg: | | Name: NotZeus
+Host msg: | | PB-ID: pb-IF42XhcMHA==
+Host msg: | | Tickets: None
+Host msg: | | Rank: 2
+Host msg: | | Score: 0
+Host msg: | | Games: 1
+Host msg: | | Kills: 0
+Host msg: | | Deaths: 5
+Host msg: | | Avg.: 0.0
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist 445446
+Host msg: | Fetched playlist:sara_full_epic_best_playlist
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /set server name 🪐UNIVERSE EPIC TEAMS🪐
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /setname🪐UNIVERSE EPIC TEAMS🪐
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     NotZeus           114          0     
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /effects
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /zm ****
+pb-IF42XhcMHA==  |  NotZeus| || ZEUS || | /floater
+pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | yo
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | yo
+pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | can you give ls?
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /roles
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    GIZABEGYPT         113          0     
+Host msg: |     NotZeus           114          1     
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /give leadstaff 113
+pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | /addrole
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    itzmeARYA          113          0     
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /sm
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /sm
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | meri full koshish thi acha server bnane ki
+pb-IF4qUU8yVQ==  |  Neera| Neera | yeh madm ladki h kya
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    itzmeARYA          117          0     
+Host msg: |      Neera            118          1     
+Host msg: |     Ash30🌸✨♡          119          2     
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | pata nahi
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /give owner 118
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | kese krte hai
+pb-IF4qUU8yVQ==  |  Neera| Neera | puch lo
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 118
+Host msg: | owner role Added
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | arya tum ladki ho?
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 119
+Host msg: | owner role Added
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /kill all
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | app bs kuch logo ko khlne ko khena is server me
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | bolllllll
+pb-IF4qUU8yVQ==  |  Neera| Neera | acha
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okayy
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | chlo koi or server me chle
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | ok
+pb-IF4qUU8yVQ==  |  Neera| Neera | dost puch lo
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo kidhar rahe gaya
+pb-IF4qUU8yVQ==  |  Neera| Neera | inko pucho n kon h
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | maine puchha
+pb-IF4qUU8yVQ==  |  Neera| Neera | wo bhul gya server name
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | cindrella vle me chlo
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo nahi bata rahe hai
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /gm
+pb-IF4qUU8yVQ==  |  Neera| Neera | o madm
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | aryaaaaa
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | hmmmm
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | telll
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | boy or girl?
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | girl
+pb-IF4qUU8yVQ==  |  Neera| Neera | haan
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okkk♥️
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | app boy ho girl both.
+pb-IF4qUU8yVQ==  |  Neera| Neera | kaha se h aap
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | himachal
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | ok
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | hp
+pb-IF4qUU8yVQ==  |  Neera| Neera | female
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | we both girls
+pb-IF4qUU8yVQ==  |  Neera| Neera | well
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | oh
+pb-IF4qUU8yVQ==  |  Neera| Neera | aa jao
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ye apke dost hai
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | haaa
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | acha
+pb-IF4qUU8yVQ==  |  Neera| Neera | jigari dost
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    itzmeARYA          117          0     
+Host msg: |      Neera            118          1     
+Host msg: |     Ash30🌸✨♡          119          2     
+Host msg: |    SN IS LIVE         120          3     
+pb-IF4qUU8yVQ==  |  Neera| Neera | /me
+Host msg: | Not played any match yet.
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole staff 120
+Host msg: | Role 'staff' does not exist.
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | neera kai jigari dost hai .. mera tho sirf dost hai 🫣
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 120
+Host msg: | owner role Added
+pb-IF4qUU8yVQ==  |  Neera| Neera | 🫢
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | Mera koi Freind nhi tha tum dono bne ho first game me
+pb-IF4qUU8yVQ==  |  Neera| Neera | sn ko bhi bana dena aap frd
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | areyyyyy 🥺
+pb-IF4qUU8yVQ==  |  Neera| Neera | achha h
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 🥲
+pb-IF4qUU8yVQ==  |  Neera| Neera | 😂🫢🤦🤦
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | apna hi server smjho
+pb-IF4qUU8yVQ==  |  Neera| Neera | yeh madm ko btao hm 4 log jigri dost h
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😂
+pb-IF4qUU8yVQ==  |  Neera| Neera | isme inko bhi shamil kro hum 5 ban jayenge
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 5kon
+pb-IF4qUU8yVQ==  |  Neera| Neera | apna hi samjhe ok ok
+pb-IF4qUU8yVQ==  |  Neera| Neera | ek or h abhi busy h woh
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | haa
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | acha
+pb-IF4qUU8yVQ==  |  Neera| Neera | ayyy ankhein bahr aayi effect se
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab thik hogya
+pb-IF4qUU8yVQ==  |  Neera| Neera | sn kyu ni bol rhe aap
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | lord is lord.. vo mera jigari dost hai 🫣❤️🙈
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | kya boluu
+pb-IF4qUU8yVQ==  |  Neera| Neera | achha 🫢🫢
+pb-IF4qUU8yVQ==  |  Neera| Neera | sn shant kyu h ap
+pb-IF4qUU8yVQ==  |  Neera| Neera | gye
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | usne game left krdia
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo tho gaya
+pb-IF4qUU8yVQ==  |  Neera| Neera | ayenge
+pb-IF4qUU8yVQ==  |  Neera| Neera | dekha 🤦😂😂
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab sb kitne age ke ho
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | kya bolu neera
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | arey mai akali
+pb-IF4qUU8yVQ==  |  Neera| Neera | Sn 20
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 🥺
+pb-IF4qUU8yVQ==  |  Neera| Neera | ash 65
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | nhii 65
+pb-IF4qUU8yVQ==  |  Neera| Neera | m 35
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | are
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | neera 64
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | no I'm 60
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | areee
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | and lord is 70
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | haa 😃
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | itne age ke
+pb-IF4qUU8yVQ==  |  Neera| Neera | or ek h woh 65
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😲
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | haa😂
+pb-IF4qUU8yVQ==  |  Neera| Neera | apki kya h
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | 🤣
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | me shoti hu 19
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /end
+pb-IF4qUU8yVQ==  |  Neera| Neera | shoti 🫢👀
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | choti bachi
+pb-IF4qUU8yVQ==  |  Neera| Neera | acha sn dekhiye
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😁
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | acha sn dekhiye/ kya dekhu
+pb-IF4qUU8yVQ==  |  Neera| Neera | darne se kon girta h
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 🤣🤣
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 2/5!!!
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF4qUU8yVQ==  |  Neera| Neera | Sn aap bar bar ja rhe bore ho rhe kya
+Host msg: | Warning: Betraying your teammates is not allowed!
+Host msg: | Warn Count = 3/5!!!
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab sb kitne bje online ate hai
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | nhii Nhii lag ho rha h
+pb-IF4qUU8yVQ==  |  Neera| Neera | acha
+pb-IF4qUU8yVQ==  |  Neera| Neera | chalo cindrella
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | hmm
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | random time ha
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | vha jada pyngee
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | chalo
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | me jb online aungi to cindrella vle server pr
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | aaungi
+pb-IF4qUU8yVQ==  |  Neera| Neera | likha aa rha phatt se headshot
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okk we also same
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | arhaa hu mm neera 15 min mm
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /zm chlo dusre server
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | bhr ja rha ek brr
+pb-IF4qUU8yVQ==  |  Neera| Neera | kaha ja rhe aap
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | bhr
+pb-IF4qUU8yVQ==  |  Neera| Neera | acha
+pb-IF4qUU8yVQ==  |  Neera| Neera | kal aye q nhi
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | konse server mm miloge
+pb-IF4qUU8yVQ==  |  Neera| Neera | wahi seendrella
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | ok
+pb-IF4qUU8yVQ==  |  Neera| Neera | hn
+pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ambuja cement
+pb-IF4qUU8yVQ==  |  Neera| Neera | diware tutenge nhi
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂😂
+pb-IF4qUU8yVQ==  |  Neera| Neera | chlo aao seen me
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okmm
+pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | chalo
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | / end
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | end
+Host msg: | end vote started
+Host msg: | end vote succeed
+pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | /fly
+pb-IF42XhcMHA==  |  NotZeus| Aʀʏᴀ🫶🏻 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Beowulf           113          0     
+Host msg: |      Aʀʏᴀ🫶🏻           114          1     
+pb-IF42XhcMHA==  |  NotZeus| Aʀʏᴀ🫶🏻 | /remove owner 113
+pb-IF42XhcMHA==  |  NotZeus| Aʀʏᴀ🫶🏻 | /customtag sasta_owner 113
+pb-IF5XXnhcBg==  |  DivineDeox| Beowulf | /sm
+pb-IF42XhcMHA==  |  NotZeus| Aʀʏᴀ🫶🏻 | /customtag 『GRAPHITE』么 113
+pb-IF42XhcMHA==  |  NotZeus| Socrates | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |     Socrates          114          0     
+pb-IF42XhcMHA==  |  NotZeus| Socrates | /custom tag 💀MAIN_OWNER💀 114
+pb-IF42XhcMHA==  |  NotZeus| Socrates | /customtag 💀MAIN_OWNER💀 114
+pb-IF42XhcMHA==  |  NotZeus| Socrates | /kill all
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist sole ramp
+Host msg: | Available Playlist
+Host msg: | team
+Host msg: | epicteams
+Host msg: | ffa
+Host msg: | elim
+Host msg: | soccer
+Host msg: | smash
+Host msg: | ffasmash
+Host msg: | epic
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist solo ramp
+Host msg: | Available Playlist
+Host msg: | team
+Host msg: | epicteams
+Host msg: | ffa
+Host msg: | elim
+Host msg: | soccer
+Host msg: | smash
+Host msg: | ffasmash
+Host msg: | epic
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist solo + solo ramp
+Host msg: | Available Playlist
+Host msg: | team
+Host msg: | epicteams
+Host msg: | ffa
+Host msg: | elim
+Host msg: | soccer
+Host msg: | smash
+Host msg: | ffasmash
+Host msg: | epic
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | cheatinggg
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    Graphitepc         114          0     
+Host msg: |     NotZeus           115          1     
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /removetag 115
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag nubdii 114
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag SEXY_GAND 114
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag Mia.Khalifa 114
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag Jhonny.sins 115
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /kill all
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag chutiya.hijra 114
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /removetag 115
+pb-IF42XhcMHA==  |  NotZeus| NotZeus | /sm
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /end
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    Graphitepc         114          0     
+Host msg: |    Nobonalis          113          1     
+Host msg: |    DivineDeox         115          2     
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /removetag 114
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /zm no owner baby
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /kill all
+Host msg: | Warning: Teamwork is essential - no betrayals allowed!
+Host msg: | Warn Count = 1/5!!!
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /zm fu c k yu
+Host msg: | Warning: Teamwork is essential - no betrayals allowed!
+Host msg: | Warn Count = 2/5!!!
+pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /addrole moderator 114
+Host msg: | moderator role Added
+pb-IF4yXmsCPQ==  |  Graphitepc| Graphitepc | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |    Graphitepc         114          0     
+Host msg: |    DivineDeox         115          1     
+Host msg: |   Graphitepc 2        114          2     
+pb-IF4yXmsCPQ==  |  Graphitepc| Graphitepc | /kick 115
+Host msg: | Graphitepc kicked DivineDeox Goodbye 👋
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | can you give me a font of name founded in design
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      Aʀʏᴀ🫶🏻           115          0     
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | mujhe ek font design chayie
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | name founder
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | Font chiye? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | nhi font me
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | woto vaha pe hi de deti bhai🤦🏻‍♀️
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | jese tumhara ha founder
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | kya likhan hai batao? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | founder
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | crown wi laga do
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | 𝐅𝐎𝐔𝐍𝐃𝐄𝐑
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /l
+Host msg: |       Name         Client ID   Player ID 
+Host msg: | ______________________________
+Host msg: |      Aʀʏᴀ🫶🏻           116          0     
+Host msg: |     𝄟⃝✈𝔾𝕀ℝ𝕃🕊          117          1     
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /customtag 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 116
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | how many yrs old u r? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | 19
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | shiraj uh? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | no
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | nice
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | which language do you talk
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | gujju hindi eng little tamil
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | u from? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | I speak only hindi and english
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | u frm? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | e apke server me jb owner ate hai to black kese hota hai
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | himachal pardesh
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | script me add kiya hai mere staff ne 
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | editor ne
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | himachal pardesh/ nice
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | mujhe mil skta hai kya 😏
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | owners founders join hote to hota hai
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | wo use hi pata hoga wo abhi inactive hai bhai ayga to batungi
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | ok
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /addrole admin 117
+Host msg: | admin role Added
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | /acl
+Host msg: | ______________|ADMIN-CMDS-LISTS|________________
+Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze
+Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw
+Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv
+Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv
+Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy
+Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound
+Host msg: |  || zm
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | tx bro
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | I m not bro
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | Girl? 
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | yes
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | uf seriously
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | yes
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | niz
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | nice to meet uh sis
+pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | apka koi bf ha
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | come to mah serv if u wnt to play
+pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | nope
+Host msg: | Server will restart on next opportunity. (series end)

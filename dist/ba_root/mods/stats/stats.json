@@ -1,0 +1,122 @@
+{
+    "startDate": "19-07-2026 10:02:23",
+    "stats": {
+        "pb-IF4VAk4a": {
+            "rank": 4,
+            "name": "pb-IF4VAk4a",
+            "scores": 0,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 0,
+            "games": 18,
+            "kd": 0.0,
+            "avg_score": 0.0,
+            "aid": "pb-IF4VAk4a",
+            "last_seen": "2022-04-26 17:01:13.715014"
+        },
+        "pb-IF42XhcMHA==": {
+            "rank": 1,
+            "name": "Arya61",
+            "scores": 640,
+            "total_damage": 0.0,
+            "kills": 13,
+            "deaths": 19,
+            "games": 19,
+            "kd": 0.684,
+            "avg_score": 33.684,
+            "last_seen": "2026-07-27 16:42:18.850983",
+            "aid": "pb-IF42XhcMHA=="
+        },
+        "pb-IF4qUU8yVQ==": {
+            "rank": 5,
+            "name": "Neera",
+            "scores": 0,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 6,
+            "games": 2,
+            "kd": 0.0,
+            "avg_score": 0.0,
+            "last_seen": "2026-07-25 13:21:21.292007",
+            "aid": "pb-IF4qUU8yVQ=="
+        },
+        "pb-IF5SUHkSFg==": {
+            "rank": 6,
+            "name": "Ash21",
+            "scores": 0,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 5,
+            "games": 2,
+            "kd": 0.0,
+            "avg_score": 0.0,
+            "last_seen": "2026-07-25 13:21:21.957240",
+            "aid": "pb-IF5SUHkSFg=="
+        },
+        "pb-IF4sUEEjKQ==": {
+            "rank": 7,
+            "name": "ZealousC74",
+            "scores": 0,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 6,
+            "games": 5,
+            "kd": 0.0,
+            "avg_score": 0.0,
+            "last_seen": "2026-07-25 13:57:11.779211",
+            "aid": "pb-IF4sUEEjKQ=="
+        },
+        "pb-IF5XXnhcBg==": {
+            "rank": 8,
+            "name": "DivineDeox",
+            "scores": 260,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 0,
+            "games": 8,
+            "kd": 0.0,
+            "avg_score": 32.5,
+            "last_seen": "2026-07-27 17:01:21.773282",
+            "aid": "pb-IF5XXnhcBg=="
+        },
+        "pb-IF4yXmsCPQ==": {
+            "rank": 3,
+            "name": "Graphitepc",
+            "scores": 110,
+            "total_damage": 0.0,
+            "kills": 1,
+            "deaths": 3,
+            "games": 8,
+            "kd": 0.333,
+            "avg_score": 13.75,
+            "last_seen": "2026-08-04 19:15:44.149876",
+            "aid": "pb-IF4yXmsCPQ=="
+        },
+        "pb-IF4tUEwGEg==": {
+            "rank": 9,
+            "name": "Nobonalis",
+            "scores": 0,
+            "total_damage": 0.0,
+            "kills": 0,
+            "deaths": 0,
+            "games": 1,
+            "kd": 0.0,
+            "avg_score": 0.0,
+            "last_seen": "2026-07-26 20:35:52.339611",
+            "aid": "pb-IF4tUEwGEg=="
+        },
+        "pb-IF4BXmQ6Lg==": {
+            "rank": 2,
+            "name": "GIRLLOVE",
+            "scores": 35,
+            "total_damage": 0.0,
+            "kills": 4,
+            "deaths": 10,
+            "games": 3,
+            "kd": 0.4,
+            "avg_score": 11.666,
+            "last_seen": "2026-07-27 16:42:19.484701",
+            "aid": "pb-IF4BXmQ6Lg=="
+        }
+    }
+}
