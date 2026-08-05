@@ -1,0 +1,546 @@
+2024-05-15 16:29:41 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /dbt ice 114 
+2024-05-15 16:29:41 + : Host msg: | Default bomb type set to ice for player SARA0786 now 
+2024-05-15 16:30:08 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /dbc 114 12 
+2024-05-15 16:30:08 + : Host msg: | SARA0786 default bomb count is 12 now 
+2024-05-15 16:30:48 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /dbt help 
+2024-05-15 16:30:48 + : Host msg: | bombtypes - [ice, impact, land_mine, normal, sticky, tnt, fly] 
+2024-05-15 16:30:48 + : Host msg: | To reset type /dbt reset all or /dbt reset (clientid) 
+2024-05-15 20:04:50 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /end 
+2024-05-15 20:05:10 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /me 
+2024-05-15 20:05:10 + : Host msg: | | Name: SARA0786 
+2024-05-15 20:05:10 + : Host msg: | | PB-ID: pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH 
+2024-05-15 20:05:10 + : Host msg: | | Tickets: 98383774747730 
+2024-05-15 20:05:10 + : Host msg: | | Rank: 6 
+2024-05-15 20:05:10 + : Host msg: | | Score: 50 
+2024-05-15 20:05:10 + : Host msg: | | Games: 1 
+2024-05-15 20:05:10 + : Host msg: | | Kills: 0 
+2024-05-15 20:05:10 + : Host msg: | | Deaths: 1 
+2024-05-15 20:05:10 + : Host msg: | | Avg.: 50.0 
+2024-07-04 19:25:12 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /ping 
+2024-07-04 19:25:12 + : Host msg: | Your ping 98ms  
+2024-07-04 19:25:19 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /ping 
+2024-07-04 19:25:19 + : Host msg: | Your ping 86ms  
+2024-07-04 19:25:21 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /ping 
+2024-07-04 19:25:21 + : Host msg: | Your ping 93ms  
+2024-07-04 19:25:42 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /removerole owner 113 
+2024-07-04 19:25:42 + : Host msg: | owner role Removed 
+2024-07-04 19:25:42 + : Host msg: | owner role Removed 
+2024-07-04 19:25:51 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /nv 
+2024-07-04 19:26:03 + : pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH  |  SARA0786| SARA0786 | /addrole owner 113 
+2024-07-04 23:04:09 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /public 
+2024-07-04 23:06:10 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /party 
+2024-07-04 23:07:01 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /party public 
+2024-07-04 23:07:01 + : Host msg: | party is public now 
+2024-07-04 23:07:01 + : Host msg: | party is public now 
+2024-07-04 23:07:12 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /tint 1 1 1  
+2024-07-04 23:17:00 + : pb-IF4UU2ldEg==  |  ZEUS609| <in-lobby> | hello 
+2024-07-04 23:17:03 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | join game 
+2024-07-04 23:17:17 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | bro 
+2024-07-04 23:17:26 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ah we need one more 
+2024-07-04 23:17:36 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | why top members can't play in sara 
+2024-07-04 23:17:37 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | wanted to test betray kick system  
+2024-07-04 23:17:47 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | ok 
+2024-07-04 23:17:55 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ah idk maybe because of server region 
+2024-07-04 23:18:19 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | except top 1st member 
+2024-07-04 23:18:32 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | are u owner here ? 
+2024-07-04 23:18:37 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | No 
+2024-07-04 23:18:50 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | btw I have added code to get owner 😁 
+2024-07-04 23:19:00 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | it's works from mongo 
+2024-07-04 23:19:04 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | oh 
+2024-07-04 23:19:10 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | so who is the owner  
+2024-07-04 23:19:36 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /sm 
+2024-07-04 23:19:42 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /sm 
+2024-07-04 23:19:50 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /sm 
+2024-07-04 23:20:15 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | hi  
+2024-07-04 23:21:04 + : pb-IF4KUBQFJA==  |  PC591985| DESTINY** | reduce the effects yeah? 
+2024-07-04 23:21:11 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | whar is the requirement for vip 
+2024-07-04 23:21:14 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ah u are facing lag 
+2024-07-04 23:21:20 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | yes 
+2024-07-04 23:21:22 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | big lag 
+2024-07-04 23:21:29 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | 320 ping  
+2024-07-04 23:21:30 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | haha 
+2024-07-04 23:21:48 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ah multiple server are running one so 
+2024-07-04 23:22:04 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | hmm idk  
+2024-07-04 23:22:19 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | kill me destiny  
+2024-07-04 23:22:53 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | lol he left 
+2024-07-04 23:23:34 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | vortex? 
+2024-07-04 23:23:41 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | bro? 
+2024-07-04 23:23:44 + : pb-IF4KUBQFJA==  |  PC591985| DESTINY** | he will be back 
+2024-07-04 23:24:18 + : pb-IF4KUBQFJA==  |  PC591985| DESTINY** | aight im out 
+2024-07-04 23:24:25 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | ok 
+2024-07-04 23:24:33 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | let's go out 
+2024-07-04 23:24:34 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | what do i need to do here? 
+2024-07-04 23:24:46 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | i don't get it  
+2024-07-04 23:24:54 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | Leave this server  
+2024-07-04 23:24:58 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | why 
+2024-07-04 23:25:05 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | no players  
+2024-07-04 23:25:14 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | oh no 
+2024-07-04 23:25:17 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | im wating my friend vortex 
+2024-07-04 23:25:24 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | he said to join he's server 
+2024-07-04 23:25:59 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | lol 
+2024-07-04 23:26:05 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | let me go 
+2024-07-04 23:26:08 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | no 
+2024-07-04 23:26:12 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | let me go 
+2024-07-04 23:26:16 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | am holding on for dear life 
+2024-07-04 23:26:25 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | lol 
+2024-07-04 23:26:26 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | lol 
+2024-07-04 23:26:27 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | 0____0 
+2024-07-04 23:26:41 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | no my freind  
+2024-07-04 23:26:47 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | :) 
+2024-07-04 23:26:53 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | uh oh 
+2024-07-04 23:26:59 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | help 
+2024-07-04 23:27:07 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | no dont help him 
+2024-07-04 23:27:12 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | PLEASE 
+2024-07-04 23:27:32 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | /me 
+2024-07-04 23:27:32 + : Host msg: | | Name: ZEUS609 
+2024-07-04 23:27:32 + : Host msg: | | PB-ID: pb-IF4UU2ldEg== 
+2024-07-04 23:27:32 + : Host msg: | | Tickets: None 
+2024-07-04 23:27:32 + : Host msg: | | Rank: 1 
+2024-07-04 23:27:32 + : Host msg: | | Score: 110 
+2024-07-04 23:27:32 + : Host msg: | | Games: 3 
+2024-07-04 23:27:32 + : Host msg: | | Kills: 8 
+2024-07-04 23:27:32 + : Host msg: | | Deaths: 3 
+2024-07-04 23:27:32 + : Host msg: | | Avg.: 36.666 
+2024-07-04 23:27:37 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | i have braindamage by now 
+2024-07-04 23:27:56 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | nooo 
+2024-07-04 23:28:24 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | ze yeats 
+2024-07-04 23:28:27 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | yeeted lol 
+2024-07-04 23:28:51 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | you guys are top members 
+2024-07-04 23:28:58 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | 🤣🤣 
+2024-07-04 23:29:07 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | no im not member  
+2024-07-04 23:29:08 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | and i dont even have a score yet 
+2024-07-04 23:29:09 + : pb-IF4UU2ldEg==  |  ZEUS609| ZEUS609 | we just played 1 series 
+2024-07-04 23:29:13 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | i just come to see my frined server 
+2024-07-04 23:29:14 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | xd 
+2024-07-04 23:29:16 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | sureeee 
+2024-07-04 23:29:38 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | ok stay here  
+2024-07-04 23:29:41 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | YOUR COMING WITH ME TO **** 
+2024-07-04 23:29:41 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | i'll go smoke  
+2024-07-04 23:29:42 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | xd 
+2024-07-04 23:29:44 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | bruh 
+2024-07-04 23:29:52 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | if you not let me go  
+2024-07-04 23:29:57 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | ofc she joins you lol 
+2024-07-04 23:30:04 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | she? 
+2024-07-04 23:30:10 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | nvm idk 
+2024-07-04 23:30:22 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | did i offend him/her? 
+2024-07-04 23:30:24 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | yoo dude im getting out if vortex come back 
+2024-07-04 23:30:29 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | ok 
+2024-07-04 23:30:29 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | tell him text me on discord 
+2024-07-04 23:30:42 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | why don't you tell him to text 
+2024-07-04 23:30:43 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | cuz idk what do i need to do here  
+2024-07-04 23:30:51 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | he's offline now 
+2024-07-04 23:30:55 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | oh 
+2024-07-04 23:31:00 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | he trying something  
+2024-07-04 23:31:03 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | maybe he pranked? 
+2024-07-04 23:31:06 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | he wanted to show me something  
+2024-07-04 23:31:09 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | no 
+2024-07-04 23:31:12 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | oh 
+2024-07-04 23:31:17 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | also wana join my server 
+2024-07-04 23:31:20 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | sure 
+2024-07-04 23:31:23 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | come super pro players. 
+2024-07-04 23:31:29 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | but am not even pro 
+2024-07-04 23:31:37 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | its not my problem xd 
+2024-07-04 23:31:40 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | you will be  
+2024-07-04 23:31:42 + : pb-IF4GUEFaJg==  |  masterGG| mastergg | pro  
+2024-07-04 23:31:43 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | ok 
+2024-07-04 23:31:59 + : pb-IF5RUE0ABg==  |  Android66440089| scorpion | server name is super pro players? 
+2024-07-05 01:01:51 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | end 
+2024-07-05 01:01:51 + : Host msg: | end vote started 
+2024-07-05 01:01:51 + : Host msg: | end vote succeed 
+2024-07-05 01:02:30 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | greetings 
+2024-07-05 01:03:35 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | /me 
+2024-07-05 01:03:35 + : Host msg: | | Name: Avalolli 
+2024-07-05 01:03:35 + : Host msg: | | PB-ID: pb-IF40UEwoPA== 
+2024-07-05 01:03:35 + : Host msg: | | Tickets: None 
+2024-07-05 01:03:35 + : Host msg: | | Rank: 4 
+2024-07-05 01:03:35 + : Host msg: | | Score: 75 
+2024-07-05 01:03:35 + : Host msg: | | Games: 4 
+2024-07-05 01:03:35 + : Host msg: | | Kills: 2 
+2024-07-05 01:03:35 + : Host msg: | | Deaths: 1 
+2024-07-05 01:03:35 + : Host msg: | | Avg.: 18.75 
+2024-07-05 01:09:32 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | /me 
+2024-07-05 01:09:32 + : Host msg: | | Name: Avalolli 
+2024-07-05 01:09:32 + : Host msg: | | PB-ID: pb-IF40UEwoPA== 
+2024-07-05 01:09:32 + : Host msg: | | Tickets: None 
+2024-07-05 01:09:32 + : Host msg: | | Rank: 4 
+2024-07-05 01:09:32 + : Host msg: | | Score: 515 
+2024-07-05 01:09:32 + : Host msg: | | Games: 7 
+2024-07-05 01:09:32 + : Host msg: | | Kills: 3 
+2024-07-05 01:09:32 + : Host msg: | | Deaths: 5 
+2024-07-05 01:09:32 + : Host msg: | | Avg.: 73.571 
+2024-07-05 01:17:14 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | end 
+2024-07-05 01:18:14 + : pb-IF40UEwoPA==  |  Avalolli| AirCaster🌪️ | /shop effects 
+2024-07-05 01:18:14 + : Host msg: | ==You can buy following items== 
+2024-07-05 01:18:14 + : Host msg: | ice ---- 300 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | sweat ---- 200 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | sparkground ---- 150 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | sweatground ---- 340 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | scorch ---- 350 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | rainbow ---- 400 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | splinter ---- 100 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | highlightshine ---- 150 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | iceground ---- 250 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | glow ---- 400 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | distortion ---- 750 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | fairydust ---- 1000 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | slime ---- 500 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | metal ---- 500 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | surrounder ---- 1000 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | chispitas ---- 2000 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | colorfullspark ---- 240 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | stars ---- 750 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | footprint ---- 300 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | ring ---- 5000 ---- for 1 day 
+2024-07-05 01:18:14 + : Host msg: | darkmagic ---- 1300 ---- for 1 day 
+2024-07-05 09:11:00 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end 
+2024-07-05 09:11:34 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end 
+2024-07-05 09:11:45 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end 
+2024-07-05 09:11:55 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | /end 
+2024-07-05 09:12:01 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | where is flag map 
+2024-07-05 09:12:04 + : pb-IF4UU2ldEg==  |  ZEUS609| <in-lobby> | Do you checking this sever  
+2024-07-05 09:12:19 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | yash leave the game  
+2024-07-05 09:12:21 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ZEUS609 
+2024-07-05 09:12:29 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | u join in enemy team 
+2024-07-05 09:12:42 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ahh 
+2024-07-05 09:12:54 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | ok join in my team yash 
+2024-07-05 09:13:04 + : pb-IF4RUBkvVA==  |  koanboicho| koanboicho | Android64311759: do u want free name? 
+2024-07-05 09:13:04 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | and betray  
+2024-07-05 09:13:30 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | kill 
+2024-07-05 09:13:35 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:13:35 + : Host msg: | Warn Count = 1/5!!! 
+2024-07-05 09:13:42 + : pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | got warn 
+2024-07-05 09:13:52 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | hm that means working  
+2024-07-05 09:13:55 + : pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:13:58 + : pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | Warn Count = 1/5!!! 
+2024-07-05 09:14:05 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | 5 warna kick  
+2024-07-05 09:14:09 + : pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | nice 
+2024-07-05 09:14:23 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:14:23 + : Host msg: | Warn Count = 1/5!!! 
+2024-07-05 09:14:34 + : pb-IF4BUlQBJw==  |  V0RT3X| V0RT3X | alright that's what I wanted to test  
+2024-07-05 09:14:44 + : pb-IF4pU1FYDQ==  |  YashGabani| уαѕн ♔ | let me use that warns 
+2024-07-05 09:14:52 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:14:52 + : Host msg: | Warn Count = 2/5!!! 
+2024-07-05 09:15:05 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:15:05 + : Host msg: | Warn Count = 3/5!!! 
+2024-07-05 09:15:11 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2024-07-05 09:15:11 + : Host msg: | Warn Count = 4/5!!! 
+2024-07-05 09:15:25 + : Host msg: | You have been kicked for betraying your team! 
+2026-07-19 10:21:58 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /me 
+2026-07-19 10:21:58 + : Host msg: | Not played any match yet. 
+2026-07-19 10:22:39 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /me 
+2026-07-19 10:22:39 + : Host msg: | | Name: NotZeus 
+2026-07-19 10:22:39 + : Host msg: | | PB-ID: pb-IF42XhcMHA== 
+2026-07-19 10:22:39 + : Host msg: | | Tickets: None 
+2026-07-19 10:22:39 + : Host msg: | | Rank: 2 
+2026-07-19 10:22:39 + : Host msg: | | Score: 0 
+2026-07-19 10:22:39 + : Host msg: | | Games: 1 
+2026-07-19 10:22:39 + : Host msg: | | Kills: 0 
+2026-07-19 10:22:39 + : Host msg: | | Deaths: 5 
+2026-07-19 10:42:16 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist 445446 
+2026-07-19 10:42:16 + : Host msg: | Fetched playlist:sara_full_epic_best_playlist 
+2026-07-19 10:42:55 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end 
+2026-07-19 10:44:06 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /set server name 🪐UNIVERSE EPIC TEAMS🪐 
+2026-07-19 10:44:16 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /setname🪐UNIVERSE EPIC TEAMS🪐 
+2026-07-19 10:44:48 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l 
+2026-07-19 10:44:48 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-19 10:44:48 + : Host msg: | ______________________________ 
+2026-07-19 10:44:48 + : Host msg: |     NotZeus           114          0      
+2026-07-19 10:45:17 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /effects 
+2026-07-19 10:47:57 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /zm **** 
+2026-07-24 18:08:20 + : pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | yo 
+2026-07-24 18:08:27 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | yo 
+2026-07-24 18:08:36 + : pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | can you give ls? 
+2026-07-24 18:08:43 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /roles 
+2026-07-24 18:08:47 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l 
+2026-07-24 18:08:47 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-24 18:08:47 + : Host msg: | ______________________________ 
+2026-07-24 18:08:47 + : Host msg: |    GIZABEGYPT         113          0      
+2026-07-24 18:08:47 + : Host msg: |     NotZeus           114          1      
+2026-07-24 18:09:02 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /give leadstaff 113 
+2026-07-24 18:09:13 + : pb-IF4dUGFYAg==  |  GIZABEGYPT| GIZABEGYPT | /addrole 
+2026-07-25 12:59:05 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l 
+2026-07-25 12:59:05 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-25 12:59:05 + : Host msg: | ______________________________ 
+2026-07-25 12:59:05 + : Host msg: |    itzmeARYA          113          0      
+2026-07-25 13:04:58 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /sm 
+2026-07-25 13:08:19 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /sm 
+2026-07-25 13:08:36 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | meri full koshish thi acha server bnane ki 
+2026-07-25 13:08:50 + : pb-IF4qUU8yVQ==  |  Neera| Neera | yeh madm ladki h kya 
+2026-07-25 13:08:52 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l 
+2026-07-25 13:08:52 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-25 13:08:52 + : Host msg: | ______________________________ 
+2026-07-25 13:08:52 + : Host msg: |    itzmeARYA          117          0      
+2026-07-25 13:08:52 + : Host msg: |      Neera            118          1      
+2026-07-25 13:08:52 + : Host msg: |     Ash30🌸✨♡          119          2      
+2026-07-25 13:09:00 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | pata nahi 
+2026-07-25 13:09:04 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /give owner 118 
+2026-07-25 13:09:06 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂 
+2026-07-25 13:09:13 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | kese krte hai 
+2026-07-25 13:09:26 + : pb-IF4qUU8yVQ==  |  Neera| Neera | puch lo 
+2026-07-25 13:09:44 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 118 
+2026-07-25 13:09:44 + : Host msg: | owner role Added 
+2026-07-25 13:09:45 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | arya tum ladki ho? 
+2026-07-25 13:09:51 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 119 
+2026-07-25 13:09:51 + : Host msg: | owner role Added 
+2026-07-25 13:09:59 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /kill all 
+2026-07-25 13:10:24 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | app bs kuch logo ko khlne ko khena is server me 
+2026-07-25 13:10:26 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | bolllllll 
+2026-07-25 13:10:35 + : pb-IF4qUU8yVQ==  |  Neera| Neera | acha 
+2026-07-25 13:10:37 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okayy 
+2026-07-25 13:10:47 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | chlo koi or server me chle 
+2026-07-25 13:10:58 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | ok 
+2026-07-25 13:11:01 + : pb-IF4qUU8yVQ==  |  Neera| Neera | dost puch lo 
+2026-07-25 13:11:14 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo kidhar rahe gaya 
+2026-07-25 13:11:24 + : pb-IF4qUU8yVQ==  |  Neera| Neera | inko pucho n kon h 
+2026-07-25 13:11:27 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | maine puchha 
+2026-07-25 13:11:34 + : pb-IF4qUU8yVQ==  |  Neera| Neera | wo bhul gya server name 
+2026-07-25 13:11:37 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | cindrella vle me chlo 
+2026-07-25 13:11:51 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo nahi bata rahe hai 
+2026-07-25 13:11:54 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /gm 
+2026-07-25 13:12:01 + : pb-IF4qUU8yVQ==  |  Neera| Neera | o madm 
+2026-07-25 13:12:10 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | aryaaaaa 
+2026-07-25 13:12:14 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | hmmmm 
+2026-07-25 13:12:22 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | telll 
+2026-07-25 13:12:31 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | boy or girl? 
+2026-07-25 13:12:35 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | girl 
+2026-07-25 13:12:46 + : pb-IF4qUU8yVQ==  |  Neera| Neera | haan 
+2026-07-25 13:12:53 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okkk♥️ 
+2026-07-25 13:13:02 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | app boy ho girl both. 
+2026-07-25 13:13:03 + : pb-IF4qUU8yVQ==  |  Neera| Neera | kaha se h aap 
+2026-07-25 13:13:10 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | himachal 
+2026-07-25 13:13:14 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | ok 
+2026-07-25 13:13:15 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | hp 
+2026-07-25 13:13:17 + : pb-IF4qUU8yVQ==  |  Neera| Neera | female 
+2026-07-25 13:13:20 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | we both girls 
+2026-07-25 13:13:22 + : pb-IF4qUU8yVQ==  |  Neera| Neera | well 
+2026-07-25 13:13:29 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | oh 
+2026-07-25 13:13:35 + : pb-IF4qUU8yVQ==  |  Neera| Neera | aa jao 
+2026-07-25 13:13:47 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ye apke dost hai 
+2026-07-25 13:13:56 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | haaa 
+2026-07-25 13:14:02 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | acha 
+2026-07-25 13:14:07 + : pb-IF4qUU8yVQ==  |  Neera| Neera | jigari dost 
+2026-07-25 13:14:25 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /l 
+2026-07-25 13:14:25 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-25 13:14:25 + : Host msg: | ______________________________ 
+2026-07-25 13:14:25 + : Host msg: |    itzmeARYA          117          0      
+2026-07-25 13:14:25 + : Host msg: |      Neera            118          1      
+2026-07-25 13:14:25 + : Host msg: |     Ash30🌸✨♡          119          2      
+2026-07-25 13:14:25 + : Host msg: |    SN IS LIVE         120          3      
+2026-07-25 13:14:33 + : pb-IF4qUU8yVQ==  |  Neera| Neera | /me 
+2026-07-25 13:14:33 + : Host msg: | Not played any match yet. 
+2026-07-25 13:14:34 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole staff 120 
+2026-07-25 13:14:34 + : Host msg: | Role 'staff' does not exist. 
+2026-07-25 13:14:53 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | neera kai jigari dost hai .. mera tho sirf dost hai 🫣 
+2026-07-25 13:14:53 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /addrole owner 120 
+2026-07-25 13:14:53 + : Host msg: | owner role Added 
+2026-07-25 13:15:24 + : pb-IF4qUU8yVQ==  |  Neera| Neera | 🫢 
+2026-07-25 13:15:34 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | Mera koi Freind nhi tha tum dono bne ho first game me 
+2026-07-25 13:15:48 + : pb-IF4qUU8yVQ==  |  Neera| Neera | sn ko bhi bana dena aap frd 
+2026-07-25 13:15:51 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | areyyyyy 🥺 
+2026-07-25 13:15:59 + : pb-IF4qUU8yVQ==  |  Neera| Neera | achha h 
+2026-07-25 13:16:06 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂 
+2026-07-25 13:16:11 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 🥲 
+2026-07-25 13:16:14 + : pb-IF4qUU8yVQ==  |  Neera| Neera | 😂🫢🤦🤦 
+2026-07-25 13:16:41 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | apna hi server smjho 
+2026-07-25 13:16:44 + : pb-IF4qUU8yVQ==  |  Neera| Neera | yeh madm ko btao hm 4 log jigri dost h 
+2026-07-25 13:16:46 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😂 
+2026-07-25 13:17:00 + : pb-IF4qUU8yVQ==  |  Neera| Neera | isme inko bhi shamil kro hum 5 ban jayenge 
+2026-07-25 13:17:07 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 5kon 
+2026-07-25 13:17:17 + : pb-IF4qUU8yVQ==  |  Neera| Neera | apna hi samjhe ok ok 
+2026-07-25 13:17:34 + : pb-IF4qUU8yVQ==  |  Neera| Neera | ek or h abhi busy h woh 
+2026-07-25 13:17:40 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | haa 
+2026-07-25 13:17:44 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | acha 
+2026-07-25 13:18:02 + : pb-IF4qUU8yVQ==  |  Neera| Neera | ayyy ankhein bahr aayi effect se 
+2026-07-25 13:18:28 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab thik hogya 
+2026-07-25 13:18:32 + : pb-IF4qUU8yVQ==  |  Neera| Neera | sn kyu ni bol rhe aap 
+2026-07-25 13:18:43 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | lord is lord.. vo mera jigari dost hai 🫣❤️🙈 
+2026-07-25 13:18:43 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | kya boluu 
+2026-07-25 13:18:56 + : pb-IF4qUU8yVQ==  |  Neera| Neera | achha 🫢🫢 
+2026-07-25 13:19:06 + : pb-IF4qUU8yVQ==  |  Neera| Neera | sn shant kyu h ap 
+2026-07-25 13:19:15 + : pb-IF4qUU8yVQ==  |  Neera| Neera | gye 
+2026-07-25 13:19:18 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | usne game left krdia 
+2026-07-25 13:19:19 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | vo tho gaya 
+2026-07-25 13:19:38 + : pb-IF4qUU8yVQ==  |  Neera| Neera | ayenge 
+2026-07-25 13:19:45 + : pb-IF4qUU8yVQ==  |  Neera| Neera | dekha 🤦😂😂 
+2026-07-25 13:19:55 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab sb kitne age ke ho 
+2026-07-25 13:19:56 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | kya bolu neera 
+2026-07-25 13:20:10 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | arey mai akali 
+2026-07-25 13:20:12 + : pb-IF4qUU8yVQ==  |  Neera| Neera | Sn 20 
+2026-07-25 13:20:15 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 🥺 
+2026-07-25 13:20:21 + : pb-IF4qUU8yVQ==  |  Neera| Neera | ash 65 
+2026-07-25 13:20:22 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | nhii 65 
+2026-07-25 13:20:26 + : pb-IF4qUU8yVQ==  |  Neera| Neera | m 35 
+2026-07-25 13:20:31 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | are 
+2026-07-25 13:20:32 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | neera 64 
+2026-07-25 13:20:35 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | no I'm 60 
+2026-07-25 13:20:38 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | areee 
+2026-07-25 13:20:42 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | and lord is 70 
+2026-07-25 13:20:50 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | haa 😃 
+2026-07-25 13:20:52 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | itne age ke 
+2026-07-25 13:20:56 + : pb-IF4qUU8yVQ==  |  Neera| Neera | or ek h woh 65 
+2026-07-25 13:20:59 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😲 
+2026-07-25 13:21:00 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | haa😂 
+2026-07-25 13:21:04 + : pb-IF4qUU8yVQ==  |  Neera| Neera | apki kya h 
+2026-07-25 13:21:06 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | 🤣 
+2026-07-25 13:21:09 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | me shoti hu 19 
+2026-07-25 13:21:16 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /end 
+2026-07-25 13:21:18 + : pb-IF4qUU8yVQ==  |  Neera| Neera | shoti 🫢👀 
+2026-07-25 13:21:27 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | choti bachi 
+2026-07-25 13:21:31 + : pb-IF4qUU8yVQ==  |  Neera| Neera | acha sn dekhiye 
+2026-07-25 13:21:37 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | 😁 
+2026-07-25 13:22:01 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2026-07-25 13:22:01 + : Host msg: | Warn Count = 1/5!!! 
+2026-07-25 13:22:19 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | acha sn dekhiye/ kya dekhu 
+2026-07-25 13:22:25 + : pb-IF4qUU8yVQ==  |  Neera| Neera | darne se kon girta h 
+2026-07-25 13:22:34 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2026-07-25 13:22:34 + : Host msg: | Warn Count = 1/5!!! 
+2026-07-25 13:22:38 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 🤣🤣 
+2026-07-25 13:22:59 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2026-07-25 13:22:59 + : Host msg: | Warn Count = 2/5!!! 
+2026-07-25 13:22:59 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2026-07-25 13:22:59 + : Host msg: | Warn Count = 1/5!!! 
+2026-07-25 13:23:43 + : pb-IF4qUU8yVQ==  |  Neera| Neera | Sn aap bar bar ja rhe bore ho rhe kya 
+2026-07-25 13:23:45 + : Host msg: | Warning: Betraying your teammates is not allowed! 
+2026-07-25 13:23:45 + : Host msg: | Warn Count = 3/5!!! 
+2026-07-25 13:23:47 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ab sb kitne bje online ate hai 
+2026-07-25 13:23:57 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | nhii Nhii lag ho rha h 
+2026-07-25 13:24:05 + : pb-IF4qUU8yVQ==  |  Neera| Neera | acha 
+2026-07-25 13:24:11 + : pb-IF4qUU8yVQ==  |  Neera| Neera | chalo cindrella 
+2026-07-25 13:24:12 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | hmm 
+2026-07-25 13:24:16 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | random time ha 
+2026-07-25 13:24:22 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | vha jada pyngee 
+2026-07-25 13:24:25 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | chalo 
+2026-07-25 13:24:31 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | me jb online aungi to cindrella vle server pr 
+2026-07-25 13:24:34 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | aaungi 
+2026-07-25 13:24:41 + : pb-IF4qUU8yVQ==  |  Neera| Neera | likha aa rha phatt se headshot 
+2026-07-25 13:24:44 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okk we also same 
+2026-07-25 13:25:01 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | arhaa hu mm neera 15 min mm 
+2026-07-25 13:25:02 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | /zm chlo dusre server 
+2026-07-25 13:25:12 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | bhr ja rha ek brr 
+2026-07-25 13:25:12 + : pb-IF4qUU8yVQ==  |  Neera| Neera | kaha ja rhe aap 
+2026-07-25 13:25:17 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | bhr 
+2026-07-25 13:25:18 + : pb-IF4qUU8yVQ==  |  Neera| Neera | acha 
+2026-07-25 13:25:24 + : pb-IF4qUU8yVQ==  |  Neera| Neera | kal aye q nhi 
+2026-07-25 13:25:24 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | konse server mm miloge 
+2026-07-25 13:25:36 + : pb-IF4qUU8yVQ==  |  Neera| Neera | wahi seendrella 
+2026-07-25 13:25:57 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | ok 
+2026-07-25 13:26:03 + : pb-IF4qUU8yVQ==  |  Neera| Neera | hn 
+2026-07-25 13:26:05 + : pb-IF42XhcMHA==  |  NotZeus| itzmeARYA | ambuja cement 
+2026-07-25 13:26:18 + : pb-IF4qUU8yVQ==  |  Neera| Neera | diware tutenge nhi 
+2026-07-25 13:26:19 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | 😂😂 
+2026-07-25 13:26:52 + : pb-IF4qUU8yVQ==  |  Neera| Neera | chlo aao seen me 
+2026-07-25 13:26:59 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | okmm 
+2026-07-25 13:27:05 + : pb-IF5SUHkSFg==  |  Ash21| Ash30🌸✨♡ | chalo 
+2026-07-25 13:45:38 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | / end 
+2026-07-25 13:45:48 + : pb-IF4sUEEjKQ==  |  ZealousC74| SN IS LIVE | end 
+2026-07-25 13:45:48 + : Host msg: | end vote started 
+2026-07-26 14:33:42 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist sole ramp 
+2026-07-26 14:33:42 + : Host msg: | Available Playlist 
+2026-07-26 14:33:42 + : Host msg: | team 
+2026-07-26 14:33:42 + : Host msg: | epicteams 
+2026-07-26 14:33:42 + : Host msg: | ffa 
+2026-07-26 14:33:42 + : Host msg: | elim 
+2026-07-26 14:33:42 + : Host msg: | soccer 
+2026-07-26 14:33:42 + : Host msg: | smash 
+2026-07-26 14:33:42 + : Host msg: | ffasmash 
+2026-07-26 14:33:42 + : Host msg: | epic 
+2026-07-26 14:33:49 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist solo ramp 
+2026-07-26 14:33:49 + : Host msg: | Available Playlist 
+2026-07-26 14:33:49 + : Host msg: | team 
+2026-07-26 14:33:49 + : Host msg: | epicteams 
+2026-07-26 14:33:49 + : Host msg: | ffa 
+2026-07-26 14:33:49 + : Host msg: | elim 
+2026-07-26 14:33:49 + : Host msg: | soccer 
+2026-07-26 14:33:49 + : Host msg: | smash 
+2026-07-26 14:33:49 + : Host msg: | ffasmash 
+2026-07-26 14:33:49 + : Host msg: | epic 
+2026-07-26 14:34:07 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /playlist solo + solo ramp 
+2026-07-26 14:34:07 + : Host msg: | Available Playlist 
+2026-07-26 15:00:16 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /l 
+2026-07-26 15:00:16 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-26 15:00:16 + : Host msg: | ______________________________ 
+2026-07-26 15:00:16 + : Host msg: |    Graphitepc         114          0      
+2026-07-26 15:00:16 + : Host msg: |     NotZeus           115          1      
+2026-07-26 15:00:32 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /removetag 115 
+2026-07-26 15:00:44 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag nubdii 114 
+2026-07-26 15:00:49 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end 
+2026-07-26 15:01:52 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag SEXY_GAND 114 
+2026-07-26 15:01:59 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /end 
+2026-07-26 15:02:44 + : pb-IF42XhcMHA==  |  NotZeus| NotZeus | /customtag Mia.Khalifa 114 
+2026-07-26 20:36:01 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /l 
+2026-07-26 20:36:01 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-26 20:36:01 + : Host msg: | ______________________________ 
+2026-07-26 20:36:01 + : Host msg: |    Graphitepc         114          0      
+2026-07-26 20:36:01 + : Host msg: |    Nobonalis          113          1      
+2026-07-26 20:36:01 + : Host msg: |    DivineDeox         115          2      
+2026-07-26 20:36:12 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /removetag 114 
+2026-07-26 20:36:24 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /zm no owner baby 
+2026-07-26 20:36:30 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /kill all 
+2026-07-26 20:36:30 + : Host msg: | Warning: Teamwork is essential - no betrayals allowed! 
+2026-07-26 20:36:30 + : Host msg: | Warn Count = 1/5!!! 
+2026-07-26 20:36:39 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /zm fu c k yu 
+2026-07-26 20:36:51 + : Host msg: | Warning: Teamwork is essential - no betrayals allowed! 
+2026-07-26 20:36:51 + : Host msg: | Warn Count = 2/5!!! 
+2026-07-26 20:37:04 + : pb-IF5XXnhcBg==  |  DivineDeox| DivineDeox | /addrole moderator 114 
+2026-07-26 20:37:04 + : Host msg: | moderator role Added 
+2026-07-26 20:37:44 + : pb-IF4yXmsCPQ==  |  Graphitepc| Graphitepc | /l 
+2026-07-26 20:37:44 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-26 20:37:44 + : Host msg: | ______________________________ 
+2026-07-26 20:37:44 + : Host msg: |    Graphitepc         114          0      
+2026-07-26 20:37:44 + : Host msg: |    DivineDeox         115          1      
+2026-07-26 20:37:44 + : Host msg: |   Graphitepc 2        114          2      
+2026-07-27 16:33:54 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | can you give me a font of name founded in design 
+2026-07-27 16:33:57 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /l 
+2026-07-27 16:33:57 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-27 16:33:57 + : Host msg: | ______________________________ 
+2026-07-27 16:33:57 + : Host msg: |      Aʀʏᴀ🫶🏻           115          0      
+2026-07-27 16:35:47 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | mujhe ek font design chayie 
+2026-07-27 16:35:53 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | name founder 
+2026-07-27 16:36:04 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | Font chiye?  
+2026-07-27 16:36:11 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | nhi font me 
+2026-07-27 16:36:15 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | woto vaha pe hi de deti bhai🤦🏻‍♀️ 
+2026-07-27 16:36:22 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | jese tumhara ha founder 
+2026-07-27 16:36:30 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | kya likhan hai batao?  
+2026-07-27 16:36:38 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | founder 
+2026-07-27 16:36:50 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | 𝐅𝐎𝐔𝐍𝐃𝐄𝐑  
+2026-07-27 16:37:03 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | crown wi laga do 
+2026-07-27 16:37:16 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 
+2026-07-27 16:37:22 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /l 
+2026-07-27 16:37:22 + : Host msg: |       Name         Client ID   Player ID  
+2026-07-27 16:37:22 + : Host msg: | ______________________________ 
+2026-07-27 16:37:22 + : Host msg: |      Aʀʏᴀ🫶🏻           116          0      
+2026-07-27 16:37:22 + : Host msg: |     𝄟⃝✈𝔾𝕀ℝ𝕃🕊          117          1      
+2026-07-27 16:37:38 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /customtag 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 116 
+2026-07-27 16:37:45 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | how many yrs old u r?  
+2026-07-27 16:37:50 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | 19 
+2026-07-27 16:37:56 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | shiraj uh?  
+2026-07-27 16:38:02 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | no 
+2026-07-27 16:38:05 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | nice 
+2026-07-27 16:38:22 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | which language do you talk 
+2026-07-27 16:38:32 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | gujju hindi eng little tamil 
+2026-07-27 16:38:35 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | u from?  
+2026-07-27 16:38:49 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | I speak only hindi and english 
+2026-07-27 16:39:23 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | u frm?  
+2026-07-27 16:39:28 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | e apke server me jb owner ate hai to black kese hota hai 
+2026-07-27 16:39:37 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | himachal pardesh 
+2026-07-27 16:39:43 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | script me add kiya hai mere staff ne  
+2026-07-27 16:39:46 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | editor ne 
+2026-07-27 16:39:51 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | himachal pardesh/ nice 
+2026-07-27 16:39:57 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | mujhe mil skta hai kya 😏 
+2026-07-27 16:39:59 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | owners founders join hote to hota hai 
+2026-07-27 16:40:15 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | wo use hi pata hoga wo abhi inactive hai bhai ayga to batungi 
+2026-07-27 16:40:23 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | ok 
+2026-07-27 16:40:42 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | /addrole admin 117 
+2026-07-27 16:40:42 + : Host msg: | admin role Added 
+2026-07-27 16:40:52 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | /acl 
+2026-07-27 16:40:52 + : Host msg: | ______________|ADMIN-CMDS-LISTS|________________ 
+2026-07-27 16:40:52 + : Host msg: |  || kick, kill, heal, curse, sleep, superpunch, gloves, shield, freeze 
+2026-07-27 16:40:52 + : Host msg: |  || unfreeze, godmode, die, heath, cur, sp, punch, protect, ice, thaw 
+2026-07-27 16:40:52 + : Host msg: |  || gm, fly, invisible, headless, creepy, celebrate, spaz, speed, floater, inv 
+2026-07-27 16:40:52 + : Host msg: |  || hl, creep, celeb, flo, sm, slow, night, day, dv, nv 
+2026-07-27 16:40:52 + : Host msg: |  || lm, end, remove, gp, quit, acl, ac, tint, hug, icy 
+2026-07-27 16:40:52 + : Host msg: |  || box, boxall, exchange, texall, hugall, zombie, zombieall, reflections, ooh, playsound 
+2026-07-27 16:40:52 + : Host msg: |  || zm 
+2026-07-27 16:41:00 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | tx bro 
+2026-07-27 16:41:06 + : pb-IF42XhcMHA==  |  Arya61| Aʀʏᴀ🫶🏻 | I m not bro 
+2026-07-27 16:41:13 + : pb-IF4BXmQ6Lg==  |  GIRLLOVE| 𝄟⃝✈𝔾𝕀ℝ𝕃🕊 | Girl?  
